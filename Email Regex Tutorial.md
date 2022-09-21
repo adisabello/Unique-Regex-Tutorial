@@ -1,4 +1,3 @@
-# Unique-Regex-Tutorial
 # Matching an Email using Regex
 
 In this tutorial we will go over how to form a regular expression that can identify any correctly formatted email.
